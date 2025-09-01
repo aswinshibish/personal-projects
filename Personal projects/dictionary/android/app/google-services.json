@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864410305401",
+    "project_id": "dictionary-ece70",
+    "storage_bucket": "dictionary-ece70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864410305401:android:c5e276deacef5c67db25a8",
+        "android_client_info": {
+          "package_name": "com.example.dictionary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvbgVj8UEKGI8GlzlmXSBQj09p79gRpgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

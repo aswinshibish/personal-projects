@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998120762597",
+    "project_id": "bmi1-f2325",
+    "storage_bucket": "bmi1-f2325.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998120762597:android:f42aa624b36eefa2d3780c",
+        "android_client_info": {
+          "package_name": "com.example.bmi1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisJ8I4kK78uc7UYmm2GNpKERiDyJY6C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
